@@ -2,7 +2,10 @@
 ## Soy estudiante de Ingenieria en Tecnologias en el Instituto Tecnologico de Monterrey 	:man_student:
 
 Estudio con enfoque en videojuegos, con interes en motores graficos y diseño de videojuegos, con proyectos hechos en ITESM
+- 🌱 Estudiando **
+- 👯 Adoro Unity y Unreal Engine **
+- 🤔 Disfruto hacer la documentacion **
+- ⚡ Fun fact: Los videojuegos son vida.
 
-
-![image](https://user-images.githubusercontent.com/60150143/175074392-f0f873e3-0b6c-444d-aec3-9647e5e27f76.png)
+![image](https://user-images.githubusercontent.com/60150143/175074392-f0f873e3-0b6c-444d-aec3-9647e5e27f76.png, width="30"px) 
 
