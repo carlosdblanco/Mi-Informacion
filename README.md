@@ -1,4 +1,5 @@
-Mi nombre es Carlos David, soy estudiante de Ingenieria en Tecnologias en el Instituto Tecnologico de Monterrey 	:man_student:
+# Mi nombre es Carlos David 
+## Soy estudiante de Ingenieria en Tecnologias en el Instituto Tecnologico de Monterrey 	:man_student:
 
 Estudio con enfoque en videojuegos, con interes en motores graficos y diseño de videojuegos, con proyectos hechos en ITESM
 
