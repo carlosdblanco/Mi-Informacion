@@ -7,9 +7,9 @@ Estudio con enfoque en videojuegos, con interes en motores graficos y diseño de
 - 🤔 Disfruto hacer la documentacion **
 - ⚡ Fun fact: Los videojuegos son vida.
 
-## Lenguajes que se usar 
+## Lenguajes que disfruto usar
 
-### C++, Python, HTML, C# 
+### C++, Python, HTML, CSS, Javascript 
 
 ### Para distraerse un rato:
 https://simmer.io/@SengokuSpect/endlessrunnerreto7a01633323
